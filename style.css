@@ -1,0 +1,207 @@
+body{
+    margin:0px;
+}
+.container{
+    width: 750px; 
+    height: 190px;
+    margin-left:0px;
+    padding-left:5px 5px 5px 5px;
+    flex:1;
+    background-color: rgb(65, 15, 15);
+    padding-bottom: 0px;
+    border-bottom: 2px solid hsl(0, 85%, 10%);
+}
+.pic1{
+    padding:10px;
+    border-radius:10%;   
+ }
+.content-table{
+    
+    display:inline-block;
+    width:600px;
+    border-collapse: collapse;
+    margin:25px 0;
+    font-size: .9em;
+    min-width: 500px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+    margin-right:0px;
+    padding-right:0px;
+    position:absolute;
+    padding-left:10px;
+    margin-top:10px;
+    display:inline-block;
+    margin-bottom: 10px;
+    
+}
+
+  .content-table thead tr{
+    background-color: #80484b;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+
+}
+.content-table th,
+.content-table td{
+padding: 12px 15px;
+
+}
+.content-table tbody tr{
+    border-bottom: 1px solid #dddddd;
+}
+.content-table tbody tr:nth-of-type(odd){
+    background-color:white;
+
+}
+.content-table tbody tr:nth-of-type(even){
+    background-color: #f3f3f3;
+
+}
+.content-table tbody tr:last-of-type{
+    border-bottom:2px solid #a54747;
+
+}
+h2{
+    margin-top:0px;
+    margin-left:20px;
+    color:white;
+}
+/*--------------------------leetcode----------------------*/
+.container1{
+    width: 750px; 
+    height: 200px;
+    margin-left:0px;
+    padding-left:5px 5px 5px 5px;
+    flex:1;
+    background:linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(200, 145, 22) 100%);
+    padding-bottom: 0px;
+    border-bottom: 2px solid hsl(238, 93%, 5%);
+}
+.pic2{
+    padding:10px;
+    border-radius:10%;   
+ }
+.content-table1{
+    display:inline-block;
+    width:600px;
+    padding-top: 5px;
+    border-collapse: collapse;
+    margin:25px 0;
+    font-size: .9em;
+    min-width: 450px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+    margin-right:0px;
+    padding-right:0px;
+    position: absolute;
+    padding-left:10px;
+    margin-top:5px;
+    display:inline-block;
+    margin-bottom: 10px;
+   
+    
+}
+
+  .content-table1 thead tr{
+    background-color: #fcd22c;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+
+}
+.content-table1 th,
+.content-table1 td{
+padding: 12px 15px;
+
+}
+.content-table1 tbody tr{
+    border-bottom: 1px solid #dddddd;
+}
+.content-table1 tbody tr:nth-of-type(odd){
+    background-color:white;
+
+}
+.content-table1 tbody tr:nth-of-type(even){
+    background-color: #f3f3f3;
+
+}
+.content-table1 tbody tr:last-of-type{
+    border-bottom:2px solid #fcd22c;
+
+}
+.b{
+    margin-top:0px;
+    margin-left:20px;
+    color:#fcd22c;
+}
+/*----------------------------------Codeforces---------------------------------------------------------------------------------*/
+.container2{
+    width: 750px; 
+    height: 190px;
+    margin-left:0px;
+    padding-left:5px 5px 5px 5px;
+    flex:1;
+    background:linear-gradient(90deg, rgb(52, 115, 223) 0%, rgba(72, 130, 163, 0) 100%);
+    padding-bottom: 0px;
+}
+.pic3{
+    padding:10px;
+    border-radius:10%;   
+ }
+.content-table2{
+    display:inline-block;
+    width:600px;
+    padding-top: 25px;
+    border-collapse: collapse;
+    margin:25px 0;
+    font-size: .9em;
+    min-width: 600px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+    margin-right:0px;
+    padding-right:0px;
+    position: absolute;
+    padding-left:10px;
+    margin-top:10px;
+    display:inline-block;
+    margin-bottom: 10px;
+    
+    
+}
+
+  .content-table2 thead tr{
+    background-color: #2c6efc;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+
+}
+.content-table2 th,
+.content-table2 td{
+padding: 12px 15px;
+
+}
+.content-table2 tbody tr{
+    border-bottom: 1px solid #dddddd;
+}
+.content-table2 tbody tr:nth-of-type(odd){
+    background-color:white;
+
+}
+.content-table2 tbody tr:nth-of-type(even){
+    background-color: #f3f3f3;
+
+}
+.content-table2 tbody tr:last-of-type{
+    border-bottom:2px solid #2c75fc;
+
+}
+.c{
+    margin-top:0px;
+    margin-left:15px;
+    color:#010235;
+}
